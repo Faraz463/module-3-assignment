@@ -1,0 +1,54 @@
+
+h1{
+	font-size: 40px;
+}
+#chicken{
+	background-color: silver;
+}
+#chicken h2 {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+#chicken p{
+	padding: 20px;
+	font-size: 20px;
+}
+
+
+#beef{
+	background-color: #ff0066;
+}
+#beef h2 {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+#beef p{
+	padding: 20px;
+	font-size: 20px;
+	color: white;
+}
+
+
+#sushi {
+	background-color: #ff9999;
+}
+#sushi h2 {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+#sushi p{
+	padding: 20px;
+	font-size: 20px;
+}
+#myNavbar {
+	text-align: center;
+}
